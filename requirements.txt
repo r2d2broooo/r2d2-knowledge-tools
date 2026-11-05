@@ -1,0 +1,1 @@
+# Python standard library; PDF extraction additionally needs pdftotext (poppler-utils).

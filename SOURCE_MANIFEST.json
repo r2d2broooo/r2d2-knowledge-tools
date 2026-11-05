@@ -1,0 +1,39 @@
+{
+  "exported_at": "2026-11-05T12:03:55Z",
+  "source_home": "<workspace>",
+  "repo": "r2d2-knowledge-tools",
+  "files": [
+    {
+      "source": "<workspace>/.claude/skills/book-to-skill/SKILL.md",
+      "path": "book-to-skill/SKILL.md",
+      "source_sha256": "e3f5a0adcdb0993a22a29d662f0401c450dbfb78bb47add9aa3fa3e9ad31b493",
+      "export_sha256": "e3f5a0adcdb0993a22a29d662f0401c450dbfb78bb47add9aa3fa3e9ad31b493"
+    },
+    {
+      "source": "<workspace>/.claude/skills/book-to-skill/scripts/extract.py",
+      "path": "book-to-skill/scripts/extract.py",
+      "source_sha256": "88d9aad7d89b6c21dc72e24438fc949cf62de8fcf1e3b206bedfb4003256b359",
+      "export_sha256": "88d9aad7d89b6c21dc72e24438fc949cf62de8fcf1e3b206bedfb4003256b359"
+    },
+    {
+      "source": "<workspace>/trading-wiki/scripts/wiki.py",
+      "path": "wiki/wiki.py",
+      "source_sha256": "6cdebb58d447a8d498d6573f732e16a515146efdf88142f5366994667aa68ac6",
+      "export_sha256": "c90058fb6a097240a06f2209b28ff616d96df8770e912ec1315353739a7b9650"
+    },
+    {
+      "source": "<workspace>/trading-wiki/WIKI_SCHEMA.md",
+      "path": "wiki/WIKI_SCHEMA.md",
+      "source_sha256": "441534ee53fe91eb0b98b51b864541646c6cb091b558a37f221be17ef5c2a765",
+      "export_sha256": "441534ee53fe91eb0b98b51b864541646c6cb091b558a37f221be17ef5c2a765"
+    },
+    {
+      "source": "<workspace>/telegram-bots/shared/codegraph.py",
+      "path": "codegraph/codegraph.py",
+      "source_sha256": "c3214f5bab2c3e091c63aa9a53e3932c524c7ca26dbeef0fa1c4050131c49d28",
+      "export_sha256": "c3214f5bab2c3e091c63aa9a53e3932c524c7ca26dbeef0fa1c4050131c49d28"
+    }
+  ],
+  "adaptations": "Toolkit copies may adapt absolute paths or remove optional cross-repo notification dependencies; source and export hashes expose this.",
+  "privacy": "Export sanitized: credentials/private runtime state excluded; personal email, workstation paths and literal IP addresses removed."
+}
